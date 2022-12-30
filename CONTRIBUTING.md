@@ -7,21 +7,21 @@ We want to make contributing to this project as easy and transparent as possible
 We appreciate all contributions. If you are interested in contributing to Torchvision, there are many ways to help out. 
 Your contributions may fall into the following categories:
 
-- It helps the project if you could 
-    - Report issues you're facing
+- It would help the project if you could 
+    - Report the issues you're facing
     - Give a :+1: on issues that others reported and that are relevant to you 
 
-- Answering queries on the issue tracker, investigating bugs are very valuable contributions to the project.
+- Answering queries on the issue tracker and investigating bugs are very valuable contributions to the project.
 
 - You would like to improve the documentation. This is no less important than improving the library itself! 
 If you find a typo in the documentation, do not hesitate to submit a GitHub pull request.
 
 - If you would like to fix a bug
-    - please pick one from the [list of open issues labelled as "help wanted"](https://github.com/pytorch/vision/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-    - comment on the issue that you want to work on this issue
-    - send a PR with your fix, see below. 
+    - Please pick one from the [list of open issues labelled "help wanted"](https://github.com/pytorch/vision/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+    - Comment on the issue you want to work on. 
+    - Send a PR with your fix; see below. 
 
-- If you plan to contribute new features, utility functions or extensions, please first open an issue and discuss the feature with us.
+- If you plan to contribute new features, utility functions, or extensions, please first open an issue and discuss the feature with us.
 
 ## Issues
 
