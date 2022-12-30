@@ -60,9 +60,9 @@ conda install libpng jpeg
 
 If you plan to modify the code or documentation, please follow the steps below:
 
-1. Fork the repository and create your branch from `main`.
-2. If you have modified the code (new feature or bug-fix), please add unit tests.
-3. If you have changed APIs, update the documentation. Make sure the documentation builds.
+1. Fork the repository and make a branch off of `main`.
+2. If you have modified the code (a new feature or bug fix), please add unit tests.
+3. If you have changed APIs, update the documentation. Check that the documentation is built.
 4. Ensure the test suite passes.
 5. Make sure your code passes the formatting checks (see below).
 
