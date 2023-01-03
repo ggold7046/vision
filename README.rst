@@ -14,8 +14,8 @@ The torchvision package consists of popular datasets, model architectures, and c
 Installation
 ============
 
-We recommend Anaconda as Python package management system. Please refer to `pytorch.org <https://pytorch.org/>`_
-for the detail of PyTorch (``torch``) installation. The following is the corresponding ``torchvision`` versions and
+We recommend Anaconda as a Python package management system. Please refer to `pytorch.org <https://pytorch.org/>`_
+for the details of PyTorch (``torch``) installation. The following are the corresponding ``torchvision`` versions and
 supported Python versions.
 
 +--------------------------+--------------------------+---------------------------------+
