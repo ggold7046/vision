@@ -1646,7 +1646,7 @@ class TestStochasticDepth:
                 counts += batch_size - non_zero_count
                 num_samples += batch_size
 
-        p_value = stats.binom_test(counts, num_samples, p=p)
+        p_value = stats.binomtest(counts, num_samples, p=p)
         assert p_value > 0.01
 
     @pytest.mark.parametrize("seed", range(10))
